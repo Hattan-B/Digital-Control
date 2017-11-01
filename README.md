@@ -11,7 +11,7 @@ Roomba Simulink/Stateflow Library
 - This block generates a TCPIP object and it send it to both blocks to create the wireless connection between Simulink and the Roomba.
 
 
-![IRsensors_Blocks](https://github.com/tuf76885/Digital-Control/blob/master/IR_S.png)
+![IRsensors_Blocks](https://github.com/tuf76885/Digital-Control/blob/master/Block_Pictures/IR_S.png)
 
 
 - This block helps in reading the output of the six IR sensors of the Roomba. Those sensors can be used in detecting if there are any obstacles in front of the Roomba.
