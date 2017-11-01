@@ -21,7 +21,9 @@ Roomba Simulink/Stateflow Library
 
 - This block is used to control the left and right wheels of the Roomba. The speed range is between -0.5 and 0.5 where 0.5 is the maximum speed in the forward direction and -0.5 is the maximum speed in the backward direction.
 ![Example_P1](https://github.com/tuf76885/Digital-Control/blob/master/Example_for_Project.png)
-- This file is a simulink file and it show how the two blocks are working simultaneously. 
+- This file is a simulink file and it shows how the two blocks are working simultaneously. 
 
 ![Control_Roomba](https://github.com/tuf76885/Digital-Control/blob/master/C_R.png)
+
+- This block contains the algorithm to control the Roomba incase of any obstacles facing the Roomba. 
 
