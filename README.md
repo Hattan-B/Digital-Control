@@ -17,8 +17,7 @@ Roomba Simulink/Stateflow Library
 - This block helps in reading the output of the six IR sensors of the Roomba. Those sensors can be used in detecting if there are any obstacles in front of the Roomba.
 
 
-![Control_Wheel](https://github.com/tuf76885/Digital-Control/blob/master/Screen%20Shot%202017-11-01%20at%204.15.56%20PM.png)
-
+![Control_Wheels](https://github.com/tuf76885/Digital-Control/blob/master/Screen%20Shot%202017-11-01%20at%204.15.56%20PM.png)
 
 - This block is used to control the left and right wheels of the Roomba. The speed range is between -0.5 and 0.5 where 0.5 is the maximum speed in the forward direction and -0.5 is the maximum speed in the backward direction.
 ![Example_P1](https://github.com/tuf76885/Digital-Control/blob/master/Example_for_Project.png)
