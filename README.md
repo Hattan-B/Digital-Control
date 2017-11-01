@@ -3,9 +3,9 @@ Roomba Simulink/Stateflow Library
 ** Hattan Badya **
 
 -This library contains three blocks that help in controling iRoomba wirelessly through creating a TCPIP object and share it between the IRsensors-Block and the Control-Wheel block.
-...
 
-![BigSwitch](https://github.com/tuf76885/Digital-Control/blob/master/BigSwitch.png)
+
+![Big_Switch](https://github.com/tuf76885/Digital-Control/blob/master/BigSwitch.png)
 
 
 - This block generates a TCPIP object and it send it to both blocks to create the wireless connection between Simulink and the Roomba.
