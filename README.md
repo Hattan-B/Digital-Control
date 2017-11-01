@@ -23,7 +23,7 @@ Roomba Simulink/Stateflow Library
 ![Example_P1](https://github.com/tuf76885/Digital-Control/blob/master/Example_for_Project.png)
 - This file is a simulink file and it shows how the two blocks are working simultaneously. 
 
-![Control_Roomba](https://github.com/tuf76885/Digital-Control/blob/master/C_R.png)
+![Control_Roomba](https://github.com/tuf76885/Digital-Control/blob/master/Block_Pictures/C_R.png)
 
 - This block contains the algorithm to control the Roomba incase of any obstacles facing the Roomba. 
 
