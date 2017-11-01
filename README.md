@@ -23,5 +23,5 @@ Roomba Simulink/Stateflow Library
 ![Example_P1](https://github.com/tuf76885/Digital-Control/blob/master/Example_for_Project.png)
 - This file is a simulink file and it show how the two blocks are working simultaneously. 
 
-![Control_Roomba](https://github.com/tuf76885/Digital-Control/blob/master/Screen%20Shot%202017-11-01%20at%204.14.05%20PM.png)
+![Control_Roomba](https://github.com/tuf76885/Digital-Control/blob/master/C_R.png)
 
