@@ -1,6 +1,6 @@
 # Digital-Control
 Roomba Simulink/Stateflow Library
-** Hattan Badya **
+**Hattan Badya**
 
 -This library contains three blocks that help in controling iRoomba wirelessly through creating a TCPIP object and share it between the IRsensors-Block and the Control-Wheel block.
 
