@@ -3,7 +3,8 @@ Roomba Simulink/Stateflow Library
 **Hattan Badya**
 
 -This library contains three blocks that help in controling iRoomba wirelessly through creating a TCPIP object and share it between the IRsensors-Block and the Control-Wheel block. 
-- You have to download all the files in the Project_Roomba folder in order for you to use the library without facing any problems.
+- You have to download all the files in the Project_Roomba folder in order for you to use the library without facing any problems. 
+
 
 
 ![Big_Switch](https://github.com/tuf76885/Digital-Control/blob/master/Block_Pictures/BigSwitch.png)
@@ -24,13 +25,13 @@ Roomba Simulink/Stateflow Library
 
 
 
-![Example_P1](https://github.com/tuf76885/Digital-Control/blob/master/Block_Pictures/Example.png)
+![Example](https://github.com/tuf76885/Digital-Control/blob/master/Block_Pictures/Example.png)
 
 
 
 
 - This file is a simulink file and it shows how the three blocks are working simultaneously. 
-- As you can see, there is a swithc connected to the BigSwitch port in each of the operational blocks- those are the IRsensors_block, the Control_Roomba block, and the Control_Wheel block- that control the sharing of the TCPIP object.   
+- As you can see, there is a swithc connected to the BigSwitch port in each of the operational blocks- those are the IRsensors_block, the Control_Roomba block, and the Control_Wheel block- that control the sharing of the TCPIP object. In addition, you should have a switch that is connected to two constants, zero and one, to represent the On/Off switch for each block (As demonstrated in the Example file).   
 
 ![Control_Roomba](https://github.com/tuf76885/Digital-Control/blob/master/Block_Pictures/C_R.png)
 
