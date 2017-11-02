@@ -31,7 +31,7 @@ Roomba Simulink/Stateflow Library
 
 
 - This file is a simulink file and it shows how the three blocks are working simultaneously. 
-- As you can see, there is a swithc connected to the BigSwitch port in each of the operational blocks- those are the IRsensors_block, the Control_Roomba block, and the Control_Wheel block- that control the sharing of the TCPIP object. In addition, you should have a switch that is connected to two constants, zero and one, to represent the On/Off switch for each block (As demonstrated in the Example file).   
+- As you can see, there is a switch connected to the BigSwitch port in each of the operational blocks- those are the IRsensors_block, the Control_Roomba block, and the Control_Wheel block- that control the sharing of the TCPIP object. In addition, you should have a switch that is connected to two constants, zero and one, to represent the On/Off switch for each block (As demonstrated in the Example file).   
 
 ![Control_Roomba](https://github.com/tuf76885/Digital-Control/blob/master/Block_Pictures/C_R.png)
 
