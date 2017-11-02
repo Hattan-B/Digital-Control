@@ -40,5 +40,6 @@ Roomba Simulink/Stateflow Library
 - In order for you to change the speed for the Roomba do the following:
 1 - Click on the small arrow on the Control_Roomba block to go under the mask.
 2 - Click on the Control Algorithm Block, do not clikc on the arrow, and the following window should pop up.
+Note: the speed range is between -0.5 and 0.5 (The recommended speed is 0.08).
 ![Change_speed](https://github.com/tuf76885/Digital-Control/blob/master/Block_Pictures/Change_speed.png)
 
