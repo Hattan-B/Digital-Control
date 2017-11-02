@@ -30,8 +30,10 @@ Roomba Simulink/Stateflow Library
 
 
 - This file is a simulink file and it shows how the three blocks are working simultaneously. 
+- As you can see, there is a swithc connected to the BigSwitch port in each of the operational blocks- those are the IRsensors_block, the Control_Roomba block, and the Control_Wheel block- that control the sharing of the TCPIP object.   
 
 ![Control_Roomba](https://github.com/tuf76885/Digital-Control/blob/master/Block_Pictures/C_R.png)
 
-- This block contains the algorithm to control the Roomba incase of any obstacles facing the Roomba. 
+- This block contains the algorithm to control the Roomba incase of any obstacles facing the Roomba.
+- For the SonarRanges port, use a constant block and creat a vector with six zeros and attach it to the port. This makes the Roomba compare all the values read by the IR sensors to the values of the vector and it allows it to decide whether a specific reading for one of the sensors is a zero or a one.
 
