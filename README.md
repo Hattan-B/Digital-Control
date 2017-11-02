@@ -36,7 +36,7 @@ Roomba Simulink/Stateflow Library
 ![Control_Roomba](https://github.com/tuf76885/Digital-Control/blob/master/Block_Pictures/C_R.png)
 
 - This block contains the algorithm to control the Roomba incase of any obstacles facing the Roomba.
-- For the SonarRanges port, use a constant block and creat a vector with six zeros and attach it to the port. This makes the Roomba compare all the values read by the IR sensors to the values of the vector and it allows it to decide whether a specific reading for one of the sensors is a zero or a one.
+- For the SonarRanges port, use a constant block and create a vector with six zeros and attach it to the port. This makes the Roomba compare all the values read by the IR sensors to the values of the vector and it allows it to decide whether a specific reading for one of the sensors is a zero or a one.
 - In order for you to change the speed for the Roomba do the following:
 1 - Click on the small arrow on the Control_Roomba block to go under the mask.
 2 - Click on the Control Algorithm Block, do not clikc on the arrow, and the following window should pop up.
