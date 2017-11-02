@@ -1,0 +1,6 @@
+The following link is the website where you can buy the WIFI module for the Roomba:http://www.roowifi.com/products-page/embeddeds/roowifi-roomba-wifi-remote/
+
+
+The following link shows you how to add the Roomba library into your Simulink library browser:
+https://www.mathworks.com/matlabcentral/answers/93939-how-do-i-add-a-custom-library-to-the-simulink-library-browser-in-simulink-4-1-r12-1
+  
