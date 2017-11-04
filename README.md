@@ -2,7 +2,7 @@
 Roomba Simulink/Stateflow Library
 **Hattan Badya**
 
--This library contains three blocks that help in controling iRoomba wirelessly through creating a TCPIP object and share it between the IRsensors-Block and the Control-Wheel block. 
+-This library contains four blocks that help in controling iRoomba wirelessly through creating a TCPIP object and share it between the IRsensors-Block, the Control-Wheel block, and the Control_Roomba block. 
 - You have to download all the files in the Project_Roomba folder in order for you to use the library without facing any problems. 
 
 
