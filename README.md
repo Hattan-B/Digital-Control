@@ -1,4 +1,4 @@
-# Digital-Control
+# Digital-Control/Project 1 and 2
 Roomba Simulink/Stateflow Library
 **Hattan Badya**
 
